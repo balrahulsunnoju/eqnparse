@@ -1,5 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/X6wV5kIR)
-# Assignment: Equation Parser
+Equation Parser
 
 ![Math equations](https://blog.praxilabs.com/wp-content/uploads/2019/05/Most-Important-Physics-Equations-in-History.jpg)
 
@@ -29,8 +28,3 @@ In this assignment you will write a Go code to parse simple equations and test t
 - Commit and push often so you do not loose any of your work.
 - Use the `Makefile`.  For example, you can run tests with `make test`.  To make sure your code is properly formatted run `make fix`.
 
-## Submission
-
-- Commit and push your working code to your GIT repository.
-- Ensure all tests pass otherwise you may receive no credit.
-- Submit the URL to the commit to the assignment on Canvas.
